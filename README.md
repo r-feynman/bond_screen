@@ -1,6 +1,6 @@
 # bond_screen
 
-See bond_screen_v3.ipynb Jupyter Notebook.
+See the bond_screen_v3.ipynb Jupyter Notebook file for the walktrhough.
 
 Attempt to run a simple linear regression on a population of bonds downloaded from [Capital IQ](https://www.capitaliq.com/) to detect outliers and screen for relative value opportunities to identify where to focus a deeper dive work.
 
